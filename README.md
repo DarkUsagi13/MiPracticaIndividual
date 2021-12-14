@@ -1,7 +1,7 @@
 # Actividad-Individual---Control-de-versiones-y-documentaci-n
 Este repositorio será la base para poder realizar Actividad Individual 1 - Control de versiones y documentación.
 
-![imagen](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/621/107/datas/gallery.jpg)
+![imagen](https://www.konakart.com/wp-content/uploads/2014/11/javadoc.png))
 
 ## Trabajo sobre repositorios locales y documentación Java
 
